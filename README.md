@@ -1,6 +1,6 @@
 # RealEstate-Landing-Page
 
-Welcome to AQiS! Technlogies that lead Future
+Welcome to AQiS!! Technlogies that lead Future
 
 ## Contributing
 
